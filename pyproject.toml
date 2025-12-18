@@ -10,7 +10,7 @@ readme = "README.md"
 license = "LGPL-3.0"
 requires-python = ">=3.10"
 authors = [
-    { name = "YourTechy", email = "info@yourtechy.com" }
+    { name = "YugmaTech", email = "hello@yugmatech.com" }
 ]
 keywords = ["odoo", "mcp", "ai", "claude", "cursor", "model-context-protocol"]
 classifiers = [
@@ -44,8 +44,8 @@ dev = [
 yt-mcp-server-odoo = "yt_mcp_server_odoo.__main__:main"
 
 [project.urls]
-Homepage = "https://yourtechy.com"
-Repository = "https://github.com/yourtechy/mcp-server-odoo"
+Homepage = "https://yugmatech.com"
+Repository = "https://github.com/yugmatech/yt-mcp-server-odoo"
 Documentation = "https://apps.odoo.com/apps/modules/19.0/yt_mcp_server"
 
 [tool.hatch.build.targets.wheel]
